@@ -1,4 +1,4 @@
-#My C Journy: From Syntax to Systems
+# My C Journy: From Syntax to Systems
 
 A disciplined journey to master the "mother of all languages." This repository tracks my daily progress as I move from basic logic to low-level systems programming.
 
